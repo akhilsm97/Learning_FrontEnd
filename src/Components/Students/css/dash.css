@@ -1,0 +1,20 @@
+
+  /* Navbar links */
+ 
+  /* Navbar links on hover */
+ 
+
+  /* Style the divs */
+  .content {
+    display: none;
+    padding: 20px;
+    
+    margin-top: 20px;
+  }
+
+  /* Show the targeted div */
+  .content:target {
+    display: block;
+  }
+
+  
